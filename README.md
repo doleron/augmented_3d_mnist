@@ -1,6 +1,8 @@
 # augmented_3d_mnist
 3D version of MNIST dataset with xyz rotation and colors
 
+Check this dataset in Kaggle: https://www.kaggle.com/doleron/augmented-mnist-3d
+
 ![image](https://user-images.githubusercontent.com/9665358/153072218-0dcfc9fd-ed90-4b2c-ae67-a10909bc91b2.png)
 
 # Generating the dataset
